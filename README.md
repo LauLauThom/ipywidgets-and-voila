@@ -7,3 +7,4 @@ To run locally, install the packages defined in requirements, then call the foll
 `voila path/to/notebook.ipynb`
 
 A short presentation can also be found [here](https://docs.google.com/presentation/d/16N_HQmpNut_S_9qeQ5TC--2KMMZBrlvw_4ILf-JPDoE/edit?usp=sharing).  
+The link will probably die at some point but the presentation is in the repo as a pdf.  
