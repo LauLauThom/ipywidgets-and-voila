@@ -1,4 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LauLauThom/ipywidgets-and-voila/HEAD)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15397677.svg)](https://doi.org/10.5281/zenodo.15397677)
+
 
 This is a demo repository demonstrating interactive plotting with ipywidgets and matplotlib.   
 The notebook can also be rendered into an interactive webapp with the package voila (or the newer voici).  
